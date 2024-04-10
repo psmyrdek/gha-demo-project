@@ -1,0 +1,27 @@
+{
+  "name": "gha-demo-project",
+  "version": "1.0.0",
+  "description": "Demo project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/psmyrdek/gha-demo-project.git"
+  },
+  "keywords": [
+    "github",
+    "actions"
+  ],
+  "author": "psmyrdek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psmyrdek/gha-demo-project/issues"
+  },
+  "homepage": "https://github.com/psmyrdek/gha-demo-project#readme",
+  "dependencies": {
+    "axios": "1.6.8"
+  }
+}
